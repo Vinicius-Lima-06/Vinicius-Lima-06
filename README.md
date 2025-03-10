@@ -10,9 +10,8 @@ Me chamo Vinicius Lima de Oliveira, tenho 22 anos e sou do Espirito Santo - Es (
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Lima-06?tab=repositories)
 
 
-Rede Social:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuss__6/)
+Contato:
+E-mail: viniciuslima__2@outlook.com
 
 ---
 
