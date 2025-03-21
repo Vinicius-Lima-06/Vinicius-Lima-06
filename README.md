@@ -2,11 +2,10 @@
 
 **`Desenvolvedor Front-end Junior`**
 
-Me chamo Vinicius Lima de Oliveira, tenho 22 anos e sou do Espirito Santo - Es (Vila-Velha). Atualmente, estou cursando Engenharia de Software 7° Semestre na UNOPAR. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus Projetos postados no: "[Linkedin](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)" ,"[Netlify](https://app.netlify.com/teams/viniciuslima-2/sites)", , E aqui no proprio "[GitHub](https://github.com/Vinicius-Lima-06?tab=repositories)".
+Me chamo Vinicius Lima de Oliveira, tenho 22 anos e sou do Espirito Santo - Es (Vila-Velha). Atualmente, estou cursando Engenharia de Software 7° Semestre na UNOPAR. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus Projetos postados no: "[Linkedin](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)" ,"[Vercel](https://vercel.com/vinicius-projects-f7d0be98)", , E aqui no proprio "[GitHub](https://github.com/Vinicius-Lima-06?tab=repositories)".
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)
-[![Netlify]()](https://app.netlify.com/teams/viniciuslima-2/sites)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/vinicius-projects-f7d0be98)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Lima-06?tab=repositories)
 
