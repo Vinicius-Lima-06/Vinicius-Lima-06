@@ -1,8 +1,13 @@
 # 👨🏻‍💻 Vinicius Lima
 
-**`Desenvolvedor Front-end Junior`**
+**`Desenvolvedor Front-end`**
 
-Me chamo Vinicius Lima de Oliveira, tenho 22 anos e sou do Espirito Santo - Es (Vila-Velha). Atualmente, estou cursando Engenharia de Software 7° Semestre na UNOPAR. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus Projetos postados no: "[Linkedin](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)" ,"[Vercel](https://vercel.com/vinicius-projects-f7d0be98)", , E aqui no proprio "[GitHub](https://github.com/Vinicius-Lima-06?tab=repositories)".
+Me chamo Vinicius, tenho 22 anos e sou formado em Engenharia de Software pela UNOPAR.
+Moro em Vila Velha – ES, sou apaixonado por tecnologia e desenvolvimento Front-End.
+
+Estou sempre buscando evoluir, aprender novas ferramentas e transformar conhecimento em prática através de projetos reais.
+
+"[Linkedin](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)" ,"[Vercel](https://vercel.com/vinicius-projects-f7d0be98)", , E aqui no proprio "[GitHub](https://github.com/Vinicius-Lima-06?tab=repositories)".
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)
