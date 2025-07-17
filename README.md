@@ -3,9 +3,7 @@
 **`Desenvolvedor Front-end`**
 
 Me chamo Vinicius, tenho 22 anos e sou formado em Engenharia de Software pela UNOPAR.
-Moro em Vila Velha – ES, sou apaixonado por tecnologia e desenvolvimento Front-End.
-
-Estou sempre buscando evoluir, aprender novas ferramentas e transformar conhecimento em prática através de projetos reais.
+Tenho foco no desenvolvimento Front-End e estou em constante evolução, sempre buscando novas tecnologias, aprimorando minhas habilidades e aplicando tudo na prática por meio de projetos reais e desafios pessoais.
 
 "[Linkedin](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)" ,"[Vercel](https://vercel.com/vinicius-projects-f7d0be98)", , E aqui no proprio "[GitHub](https://github.com/Vinicius-Lima-06?tab=repositories)".
 
