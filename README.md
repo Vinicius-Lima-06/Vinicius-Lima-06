@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Vinicius, tenho 23 anos e sou formado em Engenharia de Software pela UNOPAR.
-Tenho foco no desenvolvimento Front-End e estou em constante evolução, sempre buscando novas tecnologias e aprimorando minhas habilidades e aplicando tudo na prática por meio de projetos reais e desafios pessoais.
+Me chamo Vinicius, tenho 23 anos e sou formado em Bacharel de Engenharia de Software pela UNOPAR.
+Tenho foco no desenvolvimento Front-End e estou em constante evolução, sempre buscando estudar novas tecnologias e frameworks sempre aprimorando minhas habilidades e aplicando tudo na prática por meio de projetos reais e desafios pessoais.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-b7b96932b/)
