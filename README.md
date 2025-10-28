@@ -54,7 +54,7 @@ E-mail: viniciuslima_1@outlook.com
     title="JavaScript"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
 <img 
@@ -63,7 +63,7 @@ E-mail: viniciuslima_1@outlook.com
     title="JavaScript"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" 
 />
 
 <img 
